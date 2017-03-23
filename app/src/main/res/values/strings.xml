@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Demo10_LBS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">DemoLBS</string>
+    <string name="lbsservice">启动LBS定位服务</string>
+    <string name="defaultshow">数据显示区域</string>
+    <string name="startbtn">开始</string>
+    <string name="stopbtn">停止</string>
+    <string name="showonmap">在地图上显示</string>
+
+</resources>

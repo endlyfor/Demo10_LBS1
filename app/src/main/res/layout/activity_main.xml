@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/showtv"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="GPS经纬度获取服,60秒界面更新一次数据，而后台GPS更新服务是每30秒更新一次GPS数据" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/Startbtn"
+            android:layout_width="96dp"
+            android:layout_height="48dp"
+            android:text="@string/startbtn" />
+
+        <Button
+            android:id="@+id/Stopbtn"
+            android:layout_width="96dp"
+            android:layout_height="48dp"
+            android:text="@string/stopbtn" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="fill_parent"
+        android:layout_height="300dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/defaultshow"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/showOnMap"
+        android:layout_width="150dp"
+        android:layout_height="48dp"
+        android:text="@string/showonmap"
+    android:layout_gravity="center"/>
+
+</LinearLayout>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\software\Android\AndroidStudioProjects\Demo10_LBS1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e8bba2275ad6e46132311524b7c667626ae68dc">
+        <dex dex="D:\software\Android\AndroidStudioProjects\Demo10_LBS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7925161ae6dc20628d83ad914fda01c92e7f674c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\software\Android\AndroidStudioProjects\Demo10_LBS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_be22657d576ef8fcbc5a2070b6a840c9da43f252\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software\Android\AndroidStudioProjects\Demo10_LBS1\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ac1e8b66b0e51acf0e232b56960e24cf7873049">
+        <dex dex="D:\software\Android\AndroidStudioProjects\Demo10_LBS1\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_f51cff3514ba8671089c552ad6d58f63fa24aa5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software\Android\AndroidStudioProjects\Demo10_LBS1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\software\Android\AndroidStudioProjects\Demo10_LBS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-19.1.0_db6240a241279c831e9bf2a93c32f5b2df979d9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software\Android\AndroidStudioProjects\Demo10_LBS1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5bfeb15292c59a626b7d089792776b43f3fe2e36">
+        <dex dex="D:\software\Android\AndroidStudioProjects\Demo10_LBS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_eb63c40d38ee99d075a1f6d109c3b51aadf7b4aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software\Android\AndroidStudioProjects\Demo10_LBS1\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\software\Android\AndroidStudioProjects\Demo10_LBS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_135393be9eb4bf8d6b6a1de78196ecc06a6424c4\classes.dex" />
+    </item>
+
+</items>
